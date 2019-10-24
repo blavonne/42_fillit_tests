@@ -6,7 +6,7 @@
 #    By: blavonne <marvin@42.fr>                    +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2019/10/18 02:43:46 by blavonne          #+#    #+#              #
-#    Updated: 2019/10/21 12:04:39 by blavonne         ###   ########.fr        #
+#    Updated: 2019/10/24 15:31:24 by blavonne         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -16,7 +16,7 @@ echo "#########################\n"
 echo "#Tests by Barett Lavonne#\n"
 echo "#########################\n"
 
-for ((i = 1; i < 20; i++))
+for ((i = 1; i < 22; i++))
 	do
 		echo "Part 1. Test $i result:"
 		./fillit maps1/test$i
