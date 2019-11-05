@@ -6,7 +6,7 @@
 #    By: blavonne <marvin@42.fr>                    +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2019/10/18 02:43:46 by blavonne          #+#    #+#              #
-#    Updated: 2019/10/24 16:33:57 by blavonne         ###   ########.fr        #
+#    Updated: 2019/10/29 23:19:25 by blavonne         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -30,7 +30,7 @@ for ((i = 1; i < 17; i++))
 		echo "____________\n"
 	done
 
-for ((i = 1; i < 14; i++))
+for ((i = 1; i < 15; i++))
 	do
 		echo "Part 3. Test $i result:"
 		time ./fillit maps3/test$i
